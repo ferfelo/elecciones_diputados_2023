@@ -58,57 +58,151 @@ electores_por_distrito = {
 }
 
 resultados_votos = [
-    "BUENOS AIRES", {"FRENTE DE IZQUIERDA Y DE TRABAJADORES": 00, "JUNTOS POR EL CAMBIO": 00, "LA LIBERTAD AVANZA": 00,
-                     "UNION POR LA PATRIA": 00},
-    "CATAMARCA", {"JUNTOS POR EL CAMBIO": 00, "LA LIBERTAD AVANZA": 00, "UNION POR LA PATRIA": 00},
-    "CHACO", {"JUNTOS POR EL CAMBIO": 00, "LA LIBERTAD AVANZA": 00, "UNION POR LA PATRIA": 00},
-    "CHUBUT", {"FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00, "JUNTOS POR EL CAMBIO CHUBUT": 00,
-               "LA LIBERTAD AVANZA CHUBUT": 00, "UNION POR LA PATRIA": 00},
+    "BUENOS AIRES",
+    {"FRENTE DE IZQUIERDA Y DE TRABAJADORES": 00,
+     "JUNTOS POR EL CAMBIO": 00,
+     "LA LIBERTAD AVANZA": 00,
+     "UNION POR LA PATRIA": 00
+     },
+    "CATAMARCA",
+    {"JUNTOS POR EL CAMBIO": 00,
+     "LA LIBERTAD AVANZA": 00,
+     "UNION POR LA PATRIA": 00
+     },
+    "CHACO",
+    {"JUNTOS POR EL CAMBIO": 00,
+     "LA LIBERTAD AVANZA": 00,
+     "UNION POR LA PATRIA": 00
+     },
+    "CHUBUT",
+    {"FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00,
+     "JUNTOS POR EL CAMBIO CHUBUT": 00,
+     "LA LIBERTAD AVANZA CHUBUT": 00,
+     "UNION POR LA PATRIA": 00
+     },
     "CIUDAD AUTONOMA DE BUENOS AIRES",
-    {"FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00, "JUNTOS POR EL CAMBIO": 00, "LA LIBERTAD AVANZA": 00,
-     "UNION POR LA PATRIA": 00},
+    {"FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00,
+     "JUNTOS POR EL CAMBIO": 00,
+     "LA LIBERTAD AVANZA": 00,
+     "UNION POR LA PATRIA": 00
+     },
     "CORDOBA",
-    {"FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES-UNIDAD": 00, "HACEMOS POR NUESTRO PAIS": 00, "JUNTOS POR EL CAMBIO": 00,
-     "LA LIBERTAD AVANZA": 00, "UNION POR LA PATRIA": 00},
+    {"FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES-UNIDAD": 00,
+     "HACEMOS POR NUESTRO PAIS": 00,
+     "JUNTOS POR EL CAMBIO": 00,
+     "LA LIBERTAD AVANZA": 00,
+     "UNION POR LA PATRIA": 00
+     },
     "CORRIENTES",
-    {"ENCUENTRO POR CORRIENTES - ECO + VAMOS CORRIENTES": 00, "LA LIBERTAD AVANZA": 00, "UNION POR LA PATRIA": 00},
-    "ENTRE RIOS", {"JUNTOS POR ENTRE RIOS": 00, "MAS PARA ENTRE RIOS": 00, "LA LIBERTAD AVANZA": 00},
-    "FORMOSA", {"LA LIBERTAD AVANZA": 00, "UNION POR LA PATRIA": 00, "JUNTOS POR EL CAMBIO": 00},
-    "JUJUY", {"FRENTE DE IZQUIERDA Y DE TRABAJADORES-UNIDAD": 00, "CAMBIA JUJUY": 00, "PARTIDO RENOVADOR FEDERAL": 00,
-              "UNION POR LA PATRIA": 00},
-    "LA PAMPA", {"FRENTE DE IZQUIERDA Y DE TRABAJADORES": 00, "JUNTOS POR EL CAMBIO": 00, "UNION POR LA PATRIA": 00},
+    {"ENCUENTRO POR CORRIENTES - ECO + VAMOS CORRIENTES": 00,
+     "LA LIBERTAD AVANZA": 00,
+     "UNION POR LA PATRIA": 00
+     },
+    "ENTRE RIOS",
+    {"JUNTOS POR ENTRE RIOS": 00,
+     "MAS PARA ENTRE RIOS": 00,
+     "LA LIBERTAD AVANZA": 00
+     },
+    "FORMOSA",
+    {"LA LIBERTAD AVANZA": 00,
+     "UNION POR LA PATRIA": 00,
+     "JUNTOS POR EL CAMBIO": 00
+     },
+    "JUJUY",
+    {"FRENTE DE IZQUIERDA Y DE TRABAJADORES-UNIDAD": 00,
+     "CAMBIA JUJUY": 00,
+     "PARTIDO RENOVADOR FEDERAL": 00,
+     "UNION POR LA PATRIA": 00
+     },
+    "LA PAMPA",
+    {"FRENTE DE IZQUIERDA Y DE TRABAJADORES": 00,
+     "JUNTOS POR EL CAMBIO": 00,
+     "UNION POR LA PATRIA": 00
+     },
     "LA RIOJA",
-    {"DEMOCRATA CRISTIANO": 00, "JUNTOS POR EL CAMBIO": 00, "LA LIBERTAD AVANZA": 00, "UNION POR LA PATRIA": 00},
+    {"DEMOCRATA CRISTIANO": 00,
+     "JUNTOS POR EL CAMBIO": 00,
+     "LA LIBERTAD AVANZA": 00,
+     "UNION POR LA PATRIA": 00
+     },
     "MENDOZA",
-    {"CAMBIA MENDOZA": 00, "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00, "MOVIMIENTO LIBRES DEL SUR": 00,
-     "LA LIBERTAD AVANZA": 00, "UNION POR LA PATRIA": 00},
-    "MISIONES", {"FRENTE RENOVADOR DE LA CONCORDIA-INNOVACION FEDERAL MNES": 00, "JUNTOS POR EL CAMBIO MNES": 00,
-                 "PARTIDO AGRARIO Y SOCIAL MNES": 00},
-    "NEUQUEN", {"FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00, "ARRIBA NEUQUEN": 00, "JUNTOS POR EL CAMBIO": 00,
-                "MOVIMIENTO POPULAR NEUQUINO": 00, "UNION POR LA PATRIA": 00},
+    {"CAMBIA MENDOZA": 00,
+     "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00,
+     "MOVIMIENTO LIBRES DEL SUR": 00,
+     "LA LIBERTAD AVANZA": 00,
+     "UNION POR LA PATRIA": 00
+     },
+    "MISIONES",
+    {"FRENTE RENOVADOR DE LA CONCORDIA-INNOVACION FEDERAL MNES": 00,
+     "JUNTOS POR EL CAMBIO MNES": 00,
+     "PARTIDO AGRARIO Y SOCIAL MNES": 00
+     },
+    "NEUQUEN",
+    {"FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00,
+     "ARRIBA NEUQUEN": 00,
+     "JUNTOS POR EL CAMBIO": 00,
+     "MOVIMIENTO POPULAR NEUQUINO": 00,
+     "UNION POR LA PATRIA": 00
+     },
     "RIO NEGRO",
-    {"FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00, "JUNTOS POR EL CAMBIO": 00, "JUNTOS SOMOS RIO NEGRO": 00,
-     "PARTIDO FE": 00, "UNION POR LA PATRIA": 00},
-    "SALTA", {"AHORA PATRIA": 00, "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00, "JUNTOS POR EL CAMBIO": 00,
-              "PARTIDO AUTONOMISTA": 00, "SI-SALTA INDEPENDIENTE": 00, "UNION POR LA PATRIA": 00},
+    {"FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00,
+     "JUNTOS POR EL CAMBIO": 00,
+     "JUNTOS SOMOS RIO NEGRO": 00,
+     "PARTIDO FE": 00,
+     "UNION POR LA PATRIA": 00
+     },
+    "SALTA",
+    {"AHORA PATRIA": 00,
+     "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00,
+     "JUNTOS POR EL CAMBIO": 00,
+     "PARTIDO AUTONOMISTA": 00,
+     "SI-SALTA INDEPENDIENTE": 00,
+     "UNION POR LA PATRIA": 00
+     },
     "SAN JUAN",
-    {"ALIANZA JUNTOS POR EL CAMBIO": 00, "FRENTE UNION POR LA PATRIA - SAN JUAN": 00, "LA LIBERTAD AVANZA": 00},
+    {"ALIANZA JUNTOS POR EL CAMBIO": 00,
+     "FRENTE UNION POR LA PATRIA - SAN JUAN": 00,
+     "LA LIBERTAD AVANZA": 00
+     },
     "SAN LUIS",
-    {"ALIANZA FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD  SAN LUIS": 00, "ALIANZA LA LIBERTAD AVANZA SAN LUIS": 00,
-     "JUNTOS POR EL CAMBIO  SAN LUIS": 00, "PARTIDO UNION Y LIBERTAD SAN LUIS": 00, "PARTIDO POR SAN LUIS": 00},
-    "SANTA CRUZ", {"ALIANZA CAMBIA SANTA CRUZ": 00, "ALIANZA FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES-UNIDAD": 00,
-                   "ALIANZA POR SANTA CRUZ": 00, "ALIANZA UNION POR LA PATRIA": 00},
-    "SANTA FE", {"ALIANZA FRENTE DE IZQUIERDA Y TRABAJADORES- UNIDAD": 00, "ALIANZA JUNTOS POR EL CAMBIO": 00,
-                 "ALIANZA LA FUERZA DE SANTA FE": 00, "ALIANZA LA LIBERTAD AVANZA": 00,
-                 "ALIANZA UNION POR LA PATRIA": 00},
-    "SANTIAGO DEL ESTERO", {"FRENTE CIVICO POR SANTIAGO": 00, "FRENTE RENOVADOR": 00, "JUNTOS POR EL CAMBIO": 00},
+    {"ALIANZA FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD  SAN LUIS": 00,
+     "ALIANZA LA LIBERTAD AVANZA SAN LUIS": 00,
+     "JUNTOS POR EL CAMBIO  SAN LUIS": 00,
+     "PARTIDO UNION Y LIBERTAD SAN LUIS": 00,
+     "PARTIDO POR SAN LUIS": 00},
+    "SANTA CRUZ",
+    {"ALIANZA CAMBIA SANTA CRUZ": 00,
+     "ALIANZA FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES-UNIDAD": 00,
+     "ALIANZA POR SANTA CRUZ": 00,
+     "ALIANZA UNION POR LA PATRIA": 00
+     },
+    "SANTA FE",
+    {"ALIANZA FRENTE DE IZQUIERDA Y TRABAJADORES- UNIDAD": 00,
+     "ALIANZA JUNTOS POR EL CAMBIO": 00,
+     "ALIANZA LA FUERZA DE SANTA FE": 00,
+     "ALIANZA LA LIBERTAD AVANZA": 00,
+     "ALIANZA UNION POR LA PATRIA": 00
+     },
+    "SANTIAGO DEL ESTERO",
+    {"FRENTE CIVICO POR SANTIAGO": 00,
+     "FRENTE RENOVADOR": 00,
+     "JUNTOS POR EL CAMBIO": 00
+     },
     "TIERRA DEL FUEGO",
-    {"ALIANZA FRENTE DE IZQUIERDA DE TRABAJADORES - UNIDAD": 00, "ALIANZA HACEMOS POR NUESTRO PAIS": 00,
-     "ALIANZA JUNTOS POR EL CAMBIO TDF": 00, "ALIANZA UNION POR LA PATRIA": 00, "REPUBLICANOS UNIDOS": 00,
-     "SOMOS FUEGUINOS": 00},
+    {"ALIANZA FRENTE DE IZQUIERDA DE TRABAJADORES - UNIDAD": 00,
+     "ALIANZA HACEMOS POR NUESTRO PAIS": 00,
+     "ALIANZA JUNTOS POR EL CAMBIO TDF": 00,
+     "ALIANZA UNION POR LA PATRIA": 00,
+     "REPUBLICANOS UNIDOS": 00,
+     "SOMOS FUEGUINOS": 00
+     },
     "TUCUMAN",
-    {"FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00, "FRENTE UNION POR LA PATRIA": 00, "FUERZA REPUBLICANA": 00,
-     "JUNTOS POR EL CAMBIO": 00, "MOVIMIENTO LIBRES DEL SUR": 00}
+    {"FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD": 00,
+     "FRENTE UNION POR LA PATRIA": 00,
+     "FUERZA REPUBLICANA": 00,
+     "JUNTOS POR EL CAMBIO": 00,
+     "MOVIMIENTO LIBRES DEL SUR": 00
+     }
 ]
 
 
@@ -130,13 +224,15 @@ def sumar_votos_por_distrito(resultados):
 
 
 def comparacion_votos_electores(votos_por_distrito, electores):
-    print("***************Comparación de votos y electores por distrito ***************")
+    print("***************Cantidad de votos - Cantidad de electores por distrito ***************")
 
-    # Comparar los votos en cada distrito con los electores en ese distrito
     for distrito in votos_por_distrito.keys():
         votos1 = votos_por_distrito[distrito]
         votos2 = electores[distrito]
         print(f'{distrito}: {votos1} votos - {votos2} electores')
+        # Verifica si los votos son mas que los electores (error en la carga de datos o fraude)
+        if votos1 > votos2:
+            print(f'Los votos en {distrito} son mayores que los electores')
 
 
 def leer_archivo_csv(file_name):
@@ -192,9 +288,9 @@ def calcular_cocientes_dhondt(resultados_comicios, escanios):
     resultados_finales = []
 
     for i in range(0, len(resultados_comicios), 2):
-        provincia = resultados_comicios[i]
+        distrito = resultados_comicios[i]
         votos_partidos = resultados_comicios[i + 1]
-        escanios_distrito = escanios.get(provincia, 0)
+        escanios_distrito = escanios[distrito]
         cocientes_dhondt = {}  # Crea un diccionario para almacenar los partidos(key) cocientes de D'Hondt(value)
 
         for partido in votos_partidos.keys():
@@ -208,17 +304,18 @@ def calcular_cocientes_dhondt(resultados_comicios, escanios):
 
             escanios_distrito -= 1
 
-        resultado_distrito = [provincia, cocientes_dhondt]
+        resultado_distrito = [distrito, cocientes_dhondt]
         resultados_finales.append(resultado_distrito)
+        # print(f'{distrito} - {cocientes_dhondt}')
 
     return resultados_finales
 
 
-def asignar_escanios(resultados_cocientes, escanios):
+def asignar_escanios(resultados_cocientes, escanios_por_distrito):
     resultados_finales = []
 
-    for provincia, cocientes_dhondt in resultados_cocientes:
-        escanios_distrito = escanios.get(provincia, 0)
+    for distrito, cocientes_dhondt in resultados_cocientes:
+        escanios_distrito = escanios_por_distrito.get(distrito, 0)
         escanios_por_partido = {}  # Diccionario para almacenar los escaños asignados a cada partido
 
         for partido in cocientes_dhondt.keys():
@@ -240,18 +337,19 @@ def asignar_escanios(resultados_cocientes, escanios):
                 cocientes_dhondt[max_partido].remove(max_cociente)  # Eliminar el cociente más alto
                 escanios_distrito -= 1
 
-        resultado_distrito = [provincia, {}]  # Crea una lista para almacenar los resultados del distrito
+        resultado_distrito = [distrito, {}]  # Crea una lista para almacenar los resultados del distrito
         for partido, escanios in escanios_por_partido.items():
             resultado_distrito[1][partido] = escanios
 
         resultados_finales.append(resultado_distrito)
+        # print(f'{distrito} - {escanios_por_partido}')
 
     return resultados_finales
 
 
 def asignar_votos_aleatorios(lista_base, electores):
     resultados_finales = []
-    print("Distrito / Partido - Votos: (generados aleatoriamente)")
+    # print("Distrito : Partido - Votos (generados aleatoriamente)")
     for item in lista_base:
         if isinstance(item, str):  # Comprueba si el elemento es una cadena (nombre de la provincia)
             distrito = item
@@ -262,14 +360,15 @@ def asignar_votos_aleatorios(lista_base, electores):
             for partido, votos in partidos.items():
                 if total_electores > 0:
                     # Asigna un número aleatorio de votos entre 0 y el número de electores disponibles
-                    votos_asignados[partido] = random.randint(0, total_electores)
+                    votos_asignados[partido] = random.randint(total_electores//10, total_electores)
                     total_electores -= votos_asignados[partido]
-                    print(f'{distrito} / {partido} - {votos_asignados[partido]}')
+                    # print(f'{distrito} : {partido} - {votos_asignados[partido]}')
                 else:
                     votos_asignados[partido] = 0
 
             resultados_finales.append(distrito)
             resultados_finales.append(votos_asignados)
+    # print(resultados_finales)
 
     return resultados_finales
 
