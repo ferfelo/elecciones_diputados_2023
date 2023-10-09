@@ -239,7 +239,6 @@ def leer_archivo_csv(file_name):
     lista_candidatos = []
     with open(file_name, 'r', encoding='ISO-8859-1') as csvfile:
         lector_csv = csv.reader(csvfile, delimiter=',')
-        next(lector_csv, None)
 
         for fila in lector_csv:
             if fila[4] == "TITULARES":
